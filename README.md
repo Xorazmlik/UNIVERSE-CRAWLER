@@ -113,7 +113,7 @@ UNIVERSE-CRAWLER/
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/VIPOS-testuser/UNIVERSE-CRAWLER.git
+git clone https://github.com/Xorazmlik/UNIVERSE-CRAWLER.git
 cd UNIVERSE-CRAWLER
 ```
 
@@ -271,7 +271,6 @@ nuclei -l results_2025-07-14_03-22-11.txt -t exposures/
 
 > *"The universe is not made of atoms; it is made of data."*
 
-[![GitHub](https://img.shields.io/badge/GitHub-VIPOS--testuser-181717?style=for-the-badge&logo=github)](https://github.com/VIPOS-testuser)
 
 </div>
 
